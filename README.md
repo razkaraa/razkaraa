@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @razkaraa
+- 👋 Hi, I’m Razka
 - 👀 I’m interested in Web Development and Design
 - 🌱 I’m currently learning HTML and CSS
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me you can contact afauri182526@gmail.com
 
 <!---
